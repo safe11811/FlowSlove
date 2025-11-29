@@ -1,0 +1,8 @@
+{
+  "name": "FlowSolve",
+  "description": "An ultra-modern, minimalistic 11th/12th-grade math-solving app with dual-mode explanations (Flowchart & Traditional).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
